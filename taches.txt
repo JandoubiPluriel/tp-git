@@ -2,3 +2,6 @@
 - Rediger le plan
 - Creer la page d'accueil
 - Tache main
+- Tache A
+
+
