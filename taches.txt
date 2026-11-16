@@ -1,3 +1,4 @@
 - Lire le cahier des charges
 - Rediger le plan
 - Creer la page d'accueil
+- Tache main
